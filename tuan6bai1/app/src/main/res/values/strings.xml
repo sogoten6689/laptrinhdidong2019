@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tuan6bai1 english</string>
+    <string name="welcome">welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Do you have account? Signup</string>
+    <string name="changelang">Change language</string>
+</resources>

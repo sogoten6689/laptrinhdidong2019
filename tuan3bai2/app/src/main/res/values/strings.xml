@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tuan3bai2</string>
+    <string-array name="app_name">
+        <item>lam1</item>
+        <item>lam2</item>
+        <item>lam3</item>
+        <item>lam4</item>
+        <item>lam5</item>
+        <item>lam6</item>
+        <item>lam7</item>
+        <item>lam8</item>
+        <item>lam9</item>
+        <item>lam10</item>
+        <item>lam11</item>
+    </string-array>
+</resources>

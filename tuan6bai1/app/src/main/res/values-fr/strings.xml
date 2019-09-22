@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tuan6bai1 phap</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">S\'identidier</string>
+    <string name="signup">Vous n\'avez pass de compte? S\'insrire</string>
+    <string name="changelang">Changer</string>
+</resources>

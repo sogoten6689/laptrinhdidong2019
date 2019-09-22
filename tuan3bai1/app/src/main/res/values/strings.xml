@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tuan3bai1</string>
+    <string-array name="president_array">
+        <item>loi</item>
+        <item>lam</item>
+    </string-array>
+</resources>
